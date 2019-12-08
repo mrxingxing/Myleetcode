@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac8a683-9c23-483d-bf0d-058392c32894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc/CatalanNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/GenerateTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/InorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/IsSameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/IsValidBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/NumDecodings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/SubsetsWithDup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MaxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/PreInbuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/ZigzagLevelOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,6 +137,9 @@
       <workItem from="1575649360941" duration="1020000" />
       <workItem from="1575699549768" duration="5759000" />
       <workItem from="1575709423341" duration="157000" />
+      <workItem from="1575783093419" duration="2088000" />
+      <workItem from="1575787949235" duration="7000000" />
+      <workItem from="1575805327910" duration="810000" />
     </task>
     <servers />
   </component>
