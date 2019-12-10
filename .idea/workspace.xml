@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac8a683-9c23-483d-bf0d-058392c32894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc/LevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/PreInbuildTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/ZigzagLevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/HasPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/LevelOrderBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MinDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/PostInbuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/SortedArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/SortedListToBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lc/PreInbuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lc/PreInbuildTree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
@@ -140,6 +146,9 @@
       <workItem from="1575783093419" duration="2088000" />
       <workItem from="1575787949235" duration="7000000" />
       <workItem from="1575805327910" duration="810000" />
+      <workItem from="1575806327252" duration="29000" />
+      <workItem from="1575859233761" duration="7621000" />
+      <workItem from="1575957775305" duration="7252000" />
     </task>
     <servers />
   </component>
