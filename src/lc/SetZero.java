@@ -3,7 +3,7 @@ package lc;
 import java.util.ArrayList;
 import java.util.List;
 
-public class setZero {
+public class SetZero {
     public void setZeroes(int[][] matrix){
         List<Integer[]> mk=new ArrayList<>();
         int row=matrix.length;

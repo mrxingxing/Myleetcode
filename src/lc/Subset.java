@@ -3,7 +3,7 @@ package lc;
 import java.util.ArrayList;
 import java.util.List;
 
-public class subset {
+public class Subset {
     List<List<Integer>> res=new ArrayList<>();
     public List<List<Integer>> subsets(int[] nums) {
         if(nums==null||nums.length==0)return res;

@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac8a683-9c23-483d-bf0d-058392c32894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc/HasPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/IsBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/LevelOrderBottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MinDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/PostInbuildTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/SortedArrayToBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/SortedListToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/ConnectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/Flatten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/PathSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lc/PreInbuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lc/PreInbuildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lc/setZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lc/SetZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lc/subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lc/Subset.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +147,10 @@
       <workItem from="1575805327910" duration="810000" />
       <workItem from="1575806327252" duration="29000" />
       <workItem from="1575859233761" duration="7621000" />
-      <workItem from="1575957775305" duration="7252000" />
+      <workItem from="1575957775305" duration="7970000" />
+      <workItem from="1575986115508" duration="1161000" />
+      <workItem from="1575989745060" duration="908000" />
+      <workItem from="1576040456996" duration="3907000" />
     </task>
     <servers />
   </component>
