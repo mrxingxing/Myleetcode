@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac8a683-9c23-483d-bf0d-058392c32894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc/ConnectNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/Flatten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/PathSum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MaxPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MaxProfit2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MaxProfit3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MinimumTotal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lc/setZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lc/SetZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lc/subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lc/Subset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/lc/MergeTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/lc/MergeTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/lc/isValuesudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/lc/isValuesudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/lc/setZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/lc/setZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/lc/subset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/lc/subset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lc/isValuesudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lc/IsValuesudoku.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeTwo">
+  <component name="RunManager" selected="Application.MaxProfit3">
     <configuration name="BinarySearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc.BinarySearch2" />
       <module name="Leetcode" />
@@ -92,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxProfit3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc.MaxProfit3" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc.MergeTwo" />
       <module name="Leetcode" />
@@ -107,6 +122,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxProfit3" />
         <item itemvalue="Application.MergeTwo" />
         <item itemvalue="Application.BinarySearch2" />
         <item itemvalue="Application.Canjump" />
@@ -151,6 +167,11 @@
       <workItem from="1575986115508" duration="1161000" />
       <workItem from="1575989745060" duration="908000" />
       <workItem from="1576040456996" duration="3907000" />
+      <workItem from="1576063129679" duration="478000" />
+      <workItem from="1576127224426" duration="1683000" />
+      <workItem from="1576249464454" duration="150000" />
+      <workItem from="1576307269083" duration="4341000" />
+      <workItem from="1576393163629" duration="2952000" />
     </task>
     <servers />
   </component>

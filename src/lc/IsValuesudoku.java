@@ -1,7 +1,7 @@
 package lc;
 
 
-public class isValuesudoku {
+public class IsValuesudoku {
 	public boolean isValidSudoku(char[][] board) {
         int row=board.length;
         int col=board[0].length;
