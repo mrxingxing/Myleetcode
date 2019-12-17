@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac8a683-9c23-483d-bf0d-058392c32894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc/MaxPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MaxProfit2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MaxProfit3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MinimumTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/LadderLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/LongestConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/SloveArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/SumNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/lc/MergeTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/lc/MergeTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/lc/isValuesudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/lc/isValuesudoku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/lc/setZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/lc/setZero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/lc/subset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/lc/subset.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lc/isValuesudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lc/IsValuesudoku.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxProfit3">
+  <component name="RunManager" selected="Application.LadderLength">
     <configuration name="BinarySearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc.BinarySearch2" />
       <module name="Leetcode" />
@@ -83,6 +77,19 @@
     </configuration>
     <configuration name="Canjump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc.Canjump" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LadderLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc.LadderLength" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -122,6 +129,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LadderLength" />
         <item itemvalue="Application.MaxProfit3" />
         <item itemvalue="Application.MergeTwo" />
         <item itemvalue="Application.BinarySearch2" />
@@ -171,7 +179,10 @@
       <workItem from="1576127224426" duration="1683000" />
       <workItem from="1576249464454" duration="150000" />
       <workItem from="1576307269083" duration="4341000" />
-      <workItem from="1576393163629" duration="2952000" />
+      <workItem from="1576393163629" duration="3702000" />
+      <workItem from="1576464003469" duration="10883000" />
+      <workItem from="1576512796667" duration="16000" />
+      <workItem from="1576596856173" duration="2491000" />
     </task>
     <servers />
   </component>
