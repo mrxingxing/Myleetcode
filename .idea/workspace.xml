@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac8a683-9c23-483d-bf0d-058392c32894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc/CanCompleteCircuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/ReorderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/RestoreIpAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/EvalRPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/HasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/InsertionSortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/WordBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -182,7 +187,13 @@
       <workItem from="1576464003469" duration="10883000" />
       <workItem from="1576512796667" duration="16000" />
       <workItem from="1576596856173" duration="2715000" />
-      <workItem from="1576646033387" duration="7303000" />
+      <workItem from="1576646033387" duration="7972000" />
+      <workItem from="1576730377000" duration="6930000" />
+      <workItem from="1576765816114" duration="24000" />
+      <workItem from="1576770262527" duration="1387000" />
+      <workItem from="1576810255711" duration="5003000" />
+      <workItem from="1577069153444" duration="3834000" />
+      <workItem from="1577098784864" duration="550000" />
     </task>
     <servers />
   </component>
