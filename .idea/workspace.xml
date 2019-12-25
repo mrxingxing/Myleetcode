@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac8a683-9c23-483d-bf0d-058392c32894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/DetectCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/EvalRPN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/HasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/InsertionSortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/BSTIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/FindArrayMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/LargestRectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MaximalRectange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/NumIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/Bytedance1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +66,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReorderList">
+  <component name="RunManager" selected="Application.FindArrayMin">
+    <configuration name="Bytedance1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcode.Bytedance1" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CanCompleteCircuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lc.CanCompleteCircuit" />
       <module name="Leetcode" />
@@ -79,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LadderLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc.LadderLength" />
+    <configuration name="FindArrayMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc.FindArrayMin" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -92,21 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfit3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc.MaxProfit3" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc.MergeTwo" />
+    <configuration name="HasStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc.HasStatic" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindArrayMin" />
+        <item itemvalue="Application.Bytedance1" />
+        <item itemvalue="Application.HasStatic" />
         <item itemvalue="Application.ReorderList" />
         <item itemvalue="Application.CanCompleteCircuit" />
-        <item itemvalue="Application.LadderLength" />
-        <item itemvalue="Application.MaxProfit3" />
-        <item itemvalue="Application.MergeTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +194,14 @@
       <workItem from="1576770262527" duration="1387000" />
       <workItem from="1576810255711" duration="5003000" />
       <workItem from="1577069153444" duration="3834000" />
-      <workItem from="1577098784864" duration="550000" />
+      <workItem from="1577098784864" duration="1373000" />
+      <workItem from="1577109625962" duration="39000" />
+      <workItem from="1577163368308" duration="6045000" />
+      <workItem from="1577185696238" duration="17000" />
+      <workItem from="1577198969103" duration="4010000" />
+      <workItem from="1577255938427" duration="4465000" />
+      <workItem from="1577268939887" duration="2048000" />
+      <workItem from="1577276911465" duration="3647000" />
     </task>
     <servers />
   </component>
