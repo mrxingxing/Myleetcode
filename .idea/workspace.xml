@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac8a683-9c23-483d-bf0d-058392c32894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc/CalculateMinimumHP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/FindPeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/GetIntersectionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/KthSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MaximumGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MincutPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/Palindromepartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/Rob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/Rob2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/WordDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/FindKthNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/FindMedianSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/FindTheDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/GrayCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MaxAreaOfIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/MaximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/Trap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -219,6 +215,12 @@
       <workItem from="1577517191877" duration="6548000" />
       <workItem from="1577601749258" duration="6996000" />
       <workItem from="1577674282740" duration="5229000" />
+      <workItem from="1577682229023" duration="2213000" />
+      <workItem from="1577687807048" duration="665000" />
+      <workItem from="1578058269296" duration="6300000" />
+      <workItem from="1578228262827" duration="1108000" />
+      <workItem from="1578236421164" duration="1249000" />
+      <workItem from="1578278885454" duration="8428000" />
     </task>
     <servers />
   </component>
