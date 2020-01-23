@@ -3,7 +3,7 @@ package lc;
 import java.util.ArrayList;
 import java.util.List;
 
-public class RestoreIpAddresses {
+public class  RestoreIpAddresses {
     public List<String> restoreIpAddresses(String s) {
         List<String> res = new ArrayList<>();
         int len=s.length();

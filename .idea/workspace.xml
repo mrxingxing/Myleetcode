@@ -2,16 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac8a683-9c23-483d-bf0d-058392c32894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lc/FindKthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/FindKthNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/FindMedianSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/FindTheDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/GrayCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MaxAreaOfIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/MaximalSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc/Trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/LexicalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/Str2tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc/Tree2str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/huawei9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/langchao02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcode/langchao1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lc/RestoreIpAddresses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lc/RestoreIpAddresses.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,9 +110,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Trie">
-    <configuration name="Bytedance1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcode.Bytedance1" />
+  <component name="RunManager" selected="Application.huawei40">
+    <configuration name="huawei27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcode.huawei27" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindArrayMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc.FindArrayMin" />
+    <configuration name="huawei30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcode.huawei30" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc.*" />
+          <option name="PATTERN" value="nowcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HasStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc.HasStatic" />
+    <configuration name="huawei33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcode.huawei33" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc.*" />
+          <option name="PATTERN" value="nowcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReorderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc.ReorderList" />
+    <configuration name="huawei34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcode.huawei34" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc.*" />
+          <option name="PATTERN" value="nowcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc.Trie" />
+    <configuration name="huawei40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcode.huawei40" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc.*" />
+          <option name="PATTERN" value="nowcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Trie" />
-        <item itemvalue="Application.FindArrayMin" />
-        <item itemvalue="Application.Bytedance1" />
-        <item itemvalue="Application.HasStatic" />
-        <item itemvalue="Application.ReorderList" />
+        <item itemvalue="Application.huawei40" />
+        <item itemvalue="Application.huawei34" />
+        <item itemvalue="Application.huawei33" />
+        <item itemvalue="Application.huawei30" />
+        <item itemvalue="Application.huawei27" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +259,21 @@
       <workItem from="1578058269296" duration="6300000" />
       <workItem from="1578228262827" duration="1108000" />
       <workItem from="1578236421164" duration="1249000" />
-      <workItem from="1578278885454" duration="8428000" />
+      <workItem from="1578278885454" duration="9173000" />
+      <workItem from="1578370919123" duration="7887000" />
+      <workItem from="1578380057105" duration="2073000" />
+      <workItem from="1578393090820" duration="4589000" />
+      <workItem from="1578447887284" duration="58000" />
+      <workItem from="1579232153587" duration="10315000" />
+      <workItem from="1579254409700" duration="11053000" />
+      <workItem from="1579278903197" duration="23429000" />
+      <workItem from="1579486202141" duration="11341000" />
+      <workItem from="1579520482999" duration="1067000" />
+      <workItem from="1579535219851" duration="600000" />
+      <workItem from="1579575886696" duration="2077000" />
+      <workItem from="1579586059087" duration="1188000" />
+      <workItem from="1579677169433" duration="4067000" />
+      <workItem from="1579759567274" duration="4072000" />
     </task>
     <servers />
   </component>
@@ -239,5 +292,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lc/Str2tree.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
